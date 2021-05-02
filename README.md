@@ -1,504 +1,510 @@
-America
-Balloon
-Biscuit
-Blanket
-Chicken
-Chimney
-Country
-Cupcake
-Curtain
-Diamond
-Eyebrow
-Fireman
-Florida
-Germany
-Harpoon
-Husband
-Morning
-Octopus
-Popcorn
-Printer
-Sandbox
-Skyline
-Spinach
-Backpack
-Basement
-Building
-Campfire
-Complete
-Elephant
-Exercise
-Hospital
-Internet
-Jalapeno
-Mosquito
-Sandwich
-Scissors
-Seahorse
-Skeleton
-Snowball
-Sunshade
-Treasure
-Blueberry
-Breakfast
-Bubblegum
-Cellphone
-Dandelion
-Hairbrush
-Hamburger
-Horsewhip
-Jellyfish
-Landscape
-Nightmare
-Rectangle
-Snowboard
-Spaceship
-Spongebob
-Swordfish
-Telephone
-Telescope
-Bell pepper
-Broomstick
-Commercial
-Flashlight
-Lighthouse
-Lightsaber
-Microphone
-Photograph
-Skyscraper
-Strawberry
-Sunglasses
-Toothbrush
-Toothpaste
-Pensioner
-alligator
- america
- angle
- ant
- applause
- apple
- arch
- arm
- army
- artist
- avocado
- baby
- backbone
- bag
- baker
- ball
- band
- baseball
- basin
- basket
- bath
- bathroom
- battery
- bed
- bedbug
- beehive
- bell
- berry
- bicycle
- bird
- birthday cake
- birthday
- blade
- bleach
- board
- boat
- bomb
- bone
- bonnet
- book
- boot
- bottle
- bow tie
- brain
- brake
- branch
- brick
- bridge
- bruise
- brush
- bucket
- bulb
- button
- cabin
- cake
- camera
- card
- cardboard
- carriage
- cart
- cat
- ceiling
- chain
- chalk
- chameleon
- charger
- cheerleader
- cheese
- chef
- chess
- chime
- chin
- church
- circle
- circus
- cliff
- cloak
- clock
- cloud
- coach
- coal
- coat
- collar
- comb
- comedian
- computer
- convertible
- cord
- cowboy
- cruise
- crust
- cupcake
- curtain
- cushion
- darts
- deep
- dent
- dentist
- diving
- doghouse
- door
- doormat
- drain
- drawer
- dream
- dress
- drip
- drop
- dust
- electricity
- engine
- extension cord
- eye
- face
- farm
- feather
- finger
- firefighter
- fireman
- fish
- fizz
- flag
- flagpole
- floor
- flute
- foot
- fork
- fowl
- frame
- french fries
- frog
- garbage
- garden
- garfield
- gate
- giant
- girl
- glove
- goat
- goblin
- golden retriever
- hair dryer
- hair
- hammer
- hand
- handle
- hat
- head
- headphones
- heart
- hockey
- hook
- hopscotch
- horn
- horse
- hospital
- hot dog
- hot tub
- house
- houseboat
- hurdle
- internet
- island
- jewel
- joke
- kettle
- key
- knee
- kneel
- knife
- knight
- knot
- koala
- lace
- lap
- lawnmower
- leaf
- leak
- leg
- light bulb
- lighthouse
- line
- lip
- lock
- mailman
- map
- mascot
- match
- mattress
- money
- monkey
- moon
- mouth
- muscle
- mushroom
- music
- nail
- nature
- neck
- needle
- neet
- nerve
- net
- newspaper
- nightmare
- nose
- nut
- oar
- office
- orange
- outside
- oven
- owl
- pajamas
- parcel
- park
- password
- peach
- pen
- pencil
- pharmacist
- photograph
- picnic
- picture
- pig
- pilot
- pin
- pineapple
- ping pong
- pinwheel
- pipe
- pirate
- plane
- plank
- plate
- plough
- pocket
- pool
- popsicle
- post office
- pot
- potato
- prison
- pump
- puppet
- purse
- queen
- quilt
- raft
- rail
- raincoat
- rat
- ray
- receipt
- ring
- rod
- roof
- root
- rug
- safe
- sail
- salmon
- salt and pepper
- sandbox
- scale
- school
- scissors
- screw
- season
- seed
- shallow
- shampoo
- sheep
- sheets
- shelf
- ship
- shirt
- shoe
- shrink
- skate
- ski
- skin
- skirt
- sleep
- snake
- sneeze
- snowball
- sock
- song
- spade
- speakers
- sponge
- spoon
- spring
- sprinkler
- square
- stamp
- star
- state
- station
- stem
- stick
- stingray
- stocking
- stomach
- store
- street
- suitcase
- sunburn
- sushi
- swamp
- sweater
- table
- tail
- teapot
- thief
- think
- thread
- throat
- thumb
- ticket
- time machine
- tiptoe
- tongue
- tooth
- town
- train
- tray
- treasure
- tree
- trip
- trousers
- turtle
- tusk
- umbrella
- violin
- wall
- watch
- watering can
- wax
- wedding dress
- wheel
- whip
- whistle
- wig
- window
- wing
- wire
- worm
- yardstick
-nerd
-sacrifice
-cruise ship
-velma
-weed brownies
-looney toons
-cheating
-laser gun
-Necronomicon
-speed of light
-skribbl.io
-Brandon
-blackjack
-van gogh
-curse
-takoyaki
-sherbet
-action figure
-Decepticons
-soccer field
-palm tree
-houseboat
-guacamole
-hot sauce
-salsa
-cows
-goat
-sunshine
-moonlight
-board game
-spreadsheet
-escape room
+Americ,  
+Balloo,  
+Biscui,  
+Blanke,  
+Chicke,  
+Chimne,  
+Countr,  
+Cupcak,  
+Curtai,  
+Diamon,  
+Eyebro,  
+Firema,  
+Florid,  
+German,  
+Harpoo,  
+Husban,  
+Mornin,  
+Octopu,  
+Popcor,  
+Printe,  
+Sandbo,  
+Skylin,  
+Spinac,  
+Backpac,  
+Basemen,  
+Buildin,  
+Campfir,  
+Complet,  
+Elephan,  
+Exercis,  
+Hospita,  
+Interne,  
+Jalapen,  
+Mosquit,  
+Sandwic,  
+Scissor,  
+Seahors,  
+Skeleto,  
+Snowbal,  
+Sunshad,  
+Treasur,  
+Blueberr,  
+Breakfas,  
+Bubblegu,  
+Cellphon,  
+Dandelio,  
+Hairbrus,  
+Hamburge,  
+Horsewhi,  
+Jellyfis,  
+Landscap,  
+Nightmar,  
+Rectangl,  
+Snowboar,  
+Spaceshi,  
+Spongebo,  
+Swordfis,  
+Telephon,  
+Telescop,  
+Bell peppe,  
+Broomstic,  
+Commercia,  
+Flashligh,  
+Lighthous,  
+Lightsabe,  
+Microphon,  
+Photograp,  
+Skyscrape,  
+Strawberr,  
+Sunglasse,  
+Toothbrus,  
+Toothpast,  
+Pensione,  
+alligato,  
+americ,  
+angl,  
+an,  
+applaus,  
+appl,  
+arc,  
+ar,  
+arm,  
+artis,  
+avocad,  
+bab,  
+backbon,  
+ba,  
+bake,  
+bal,  
+ban,  
+basebal,  
+basi,  
+baske,  
+bat,  
+bathroo,  
+batter,  
+be,  
+bedbu,  
+beehiv,  
+bel,  
+berr,  
+bicycl,  
+bir,  
+birthday cak,  
+birthda,  
+blad,  
+bleac,  
+boar,  
+boa,  
+bom,  
+bon,  
+bonne,  
+boo,  
+boo,  
+bottl,  
+bow ti,  
+brai,  
+brak,  
+branc,  
+bric,  
+bridg,  
+bruis,  
+brus,  
+bucke,  
+bul,  
+butto,  
+cabi,  
+cak,  
+camer,  
+car,  
+cardboar,  
+carriag,  
+car,  
+ca,  
+ceilin,  
+chai,  
+chal,  
+chameleo,  
+charge,  
+cheerleade,  
+chees,  
+che,  
+ches,  
+chim,  
+chi,  
+churc,  
+circl,  
+circu,  
+clif,  
+cloa,  
+cloc,  
+clou,  
+coac,  
+coa,  
+coa,  
+colla,  
+com,  
+comedia,  
+compute,  
+convertibl,  
+cor,  
+cowbo,  
+cruis,  
+crus,  
+cupcak,  
+curtai,  
+cushio,  
+dart,  
+dee,  
+den,  
+dentis,  
+divin,  
+doghous,  
+doo,  
+doorma,  
+drai,  
+drawe,  
+drea,  
+dres,  
+dri,  
+dro,  
+dus,  
+electricit,  
+engin,  
+extension cor,  
+ey,  
+fac,  
+far,  
+feathe,  
+finge,  
+firefighte,  
+firema,  
+fis,  
+fiz,  
+fla,  
+flagpol,  
+floo,  
+flut,  
+foo,  
+for,  
+fow,  
+fram,  
+french frie,  
+fro,  
+garbag,  
+garde,  
+garfiel,  
+gat,  
+gian,  
+gir,  
+glov,  
+goa,  
+gobli,  
+golden retrieve,  
+hair drye,  
+hai,  
+hamme,  
+han,  
+handl,  
+ha,  
+hea,  
+headphone,  
+hear,  
+hocke,  
+hoo,  
+hopscotc,  
+hor,  
+hors,  
+hospita,  
+hot do,  
+hot tu,  
+hous,  
+houseboa,  
+hurdl,  
+interne,  
+islan,  
+jewe,  
+jok,  
+kettl,  
+ke,  
+kne,  
+knee,  
+knif,  
+knigh,  
+kno,  
+koal,  
+lac,  
+la,  
+lawnmowe,  
+lea,  
+lea,  
+le,  
+light bul,  
+lighthous,  
+lin,  
+li,  
+loc,  
+mailma,  
+ma,  
+masco,  
+matc,  
+mattres,  
+mone,  
+monke,  
+moo,  
+mout,  
+muscl,  
+mushroo,  
+musi,  
+nai,  
+natur,  
+nec,  
+needl,  
+nee,  
+nerv,  
+ne,  
+newspape,  
+nightmar,  
+nos,  
+nu,  
+oa,  
+offic,  
+orang,  
+outsid,  
+ove,  
+ow,  
+pajama,  
+parce,  
+par,  
+passwor,  
+peac,  
+pe,  
+penci,  
+pharmacis,  
+photograp,  
+picni,  
+pictur,  
+pi,  
+pilo,  
+pi,  
+pineappl,  
+ping pon,  
+pinwhee,  
+pip,  
+pirat,  
+plan,  
+plan,  
+plat,  
+ploug,  
+pocke,  
+poo,  
+popsicl,  
+post offic,  
+po,  
+potat,  
+priso,  
+pum,  
+puppe,  
+purs,  
+quee,  
+quil,  
+raf,  
+rai,  
+raincoa,  
+ra,  
+ra,  
+receip,  
+rin,  
+ro,  
+roo,  
+roo,  
+ru,  
+saf,  
+sai,  
+salmo,  
+salt and peppe,  
+sandbo,  
+scal,  
+schoo,  
+scissor,  
+scre,  
+seaso,  
+see,  
+shallo,  
+shampo,  
+shee,  
+sheet,  
+shel,  
+shi,  
+shir,  
+sho,  
+shrin,  
+skat,  
+sk,  
+ski,  
+skir,  
+slee,  
+snak,  
+sneez,  
+snowbal,  
+soc,  
+son,  
+spad,  
+speaker,  
+spong,  
+spoo,  
+sprin,  
+sprinkle,  
+squar,  
+stam,  
+sta,  
+stat,  
+statio,  
+ste,  
+stic,  
+stingra,  
+stockin,  
+stomac,  
+stor,  
+stree,  
+suitcas,  
+sunbur,  
+sush,  
+swam,  
+sweate,  
+tabl,  
+tai,  
+teapo,  
+thie,  
+thin,  
+threa,  
+throa,  
+thum,  
+ticke,  
+time machin,  
+tipto,  
+tongu,  
+toot,  
+tow,  
+trai,  
+tra,  
+treasur,  
+tre,  
+tri,  
+trouser,  
+turtl,  
+tus,  
+umbrell,  
+violi,  
+wal,  
+watc,  
+watering ca,  
+wa,  
+wedding dres,  
+whee,  
+whi,  
+whistl,  
+wi,  
+windo,  
+win,  
+wir,  
+wor,  
+yardstic,  
+ner,  
+sacrific,  
+cruise shi,  
+velm,  
+weed brownie,  
+looney toon,  
+cheatin,  
+laser gu,  
+Necronomico,  
+speed of ligh,  
+skribbl.i,  
+Brando,  
+blackjac,  
+van gog,  
+curs,  
+takoyak,  
+sherbe,  
+action figur,  
+Decepticon,  
+soccer fiel,  
+palm tre,  
+guacamol,  
+hot sauc,  
+sals,  
+cow,  
+sunshin,  
+moonligh,  
+board gam,  
+spreadshee,  
+escape roo,  
 civilization 
-Clark Kent
-Lincoln
-The Big Lebowski
-waterfall
-Milky Way
-cubicle
-redwood
-A Song of Ice and Fire
-Golden Gate Bridge
-knuckles
-cork
-bored
-evil twin
-Pluto
+Clark Ken,  
+Lincol,  
+The Big Lebowsk,  
+waterfal,  
+Milky Wa,  
+cubicl,  
+redwoo,  
+A Song of Ice and Fir,  
+Golden Gate Bridg,  
+knuckle,  
+cor,  
+bore,  
+evil twi,  
+Plut,  
 swimming with dolphins 
-Picasso
+Picass,  
 man overboard 
-four lights
-costco
-ganesha
-Jurassic Park
-riverbed
-Nuclear submarine
-Drive by
-Astronaut
-Factory
-Rollercoaster
-Backflip
-Assassin
-Bernie Sanders
-Lobster bisque
-Globe Trotters
-Kickflip
-Gymnast
-Moist
-CEO
-Lavender
-Whirlwind
-rope ladder
-drawing game
-Dice
-Weight Lifter
-Ninjitsu
-carousel
-Witch
-Sorceror
-
-
+four light,  
+costc,  
+ganesh,  
+Jurassic Par,  
+riverbe,  
+Nuclear submarin,  
+Drive b,  
+Astronau,  
+Factor,  
+Rollercoaste,  
+Backfli,  
+Assassi,  
+Bernie Sander,  
+Lobster bisqu,  
+Globe Trotter,  
+Kickfli,  
+Gymnas,  
+Mois,  
+Lavende,  
+Whirlwin,  
+rope ladde,  
+drawing gam,  
+Dic,  
+Weight Lifte,  
+Ninjits,  
+carouse,  
+Witc,  
+Sorcere,  
+mas,  
+frie,  
+Shove,  
+Fortres,  
+volcan,  
+Lord of the Ring,  
+Dungeons and Dragon,  
+Tom Cruis,  
+tweezer,  
+vagin,  
+glob,  
